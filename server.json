@@ -3,7 +3,7 @@
   "name": "io.ownkube/ownkube",
   "title": "Ownkube",
   "description": "Deploy and run apps, workers, jobs, Postgres, and Valkey on Ownkube from your coding agent.",
-  "version": "1.9.0",
+  "version": "1.14.0",
   "websiteUrl": "https://ownkube.io/agents",
   "remotes": [
     {

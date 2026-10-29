@@ -1,5 +1,7 @@
 # Ownkube MCP server
 
+[![MCP Badge](https://lobehub.com/badge/mcp/ownkube-mcp)](https://lobehub.com/mcp/ownkube-mcp)
+
 The hosted [Model Context Protocol](https://modelcontextprotocol.io) server for [Ownkube](https://ownkube.io), a developer platform where a git push gives you a running app with managed Postgres and a cache beside it.
 
 Connect it to Claude Code, Cursor, Codex or any MCP client, and you can deploy and run apps, workers, scheduled jobs, Postgres and Valkey on Ownkube from your editor or terminal.
