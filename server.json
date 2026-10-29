@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.ownkube/ownkube",
+  "title": "Ownkube",
+  "description": "Deploy and run apps, workers, jobs, Postgres, and Valkey on Ownkube from your coding agent.",
+  "version": "1.9.0",
+  "websiteUrl": "https://ownkube.io/agents",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://app.ownkube.io/api/mcp"
+    }
+  ]
+}
